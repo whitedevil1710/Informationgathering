@@ -1,4 +1,4 @@
-# **INFORMATION GATHERING**
+# *SCANNING INFORMATION*
 
 # **Whois Lookup**
 
